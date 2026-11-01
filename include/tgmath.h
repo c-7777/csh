@@ -1,0 +1,52 @@
+#ifndef _TGMATH_H
+# define _TGMATH_H
+
+#define acos /*C99*/
+#define asin /*C99*/
+#define atan /*C99*/
+#define atan2 /*C99*/
+#define cos /*C99*/
+#define sin /*C99*/
+#define tan /*C99*/
+#define acosh /*C99*/
+#define asinh /*C99*/
+#define atanh /*C99*/
+#define cosh /*C99*/
+#define sinh /*C99*/
+#define tanh /*C99*/
+#define exp /*C99*/
+#define log /*C99*/
+#define log10 /*C99*/
+#define pow /*C99*/
+#define sqrt /*C99*/
+#define fabs /*C99*/
+#define floor /*C99*/
+#define ceil /*C99*/
+#define fmod /*C99*/
+#define frexp /*C99*/
+#define ldexp /*C99*/
+#define modf /*C99*/
+#define cacos /*C99*/
+#define casin /*C99*/
+#define catan /*C99*/
+#define ccos /*C99*/
+#define csin /*C99*/
+#define ctan /*C99*/
+#define cacosh /*C99*/
+#define casinh /*C99*/
+#define catanh /*C99*/
+#define ccosh /*C99*/
+#define csinh /*C99*/
+#define ctanh /*C99*/
+#define cexp /*C99*/
+#define clog /*C99*/
+#define cabs /*C99*/
+#define cpow /*C99*/
+#define csqrt /*C99*/
+#define carg /*C99*/
+#define cimag /*C99*/
+#define conj /*C99*/
+#define cproj /*C99*/
+#define creal /*C99*/
+
+#endif /* _TGMATH_H */
